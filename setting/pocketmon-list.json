@@ -2,15 +2,15 @@
   "pocketmons": {
     "1": {
       "name": "이상해씨",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/lkhlkh23/pocket-db/main/img/1.png"
     },
     "2": {
       "name": "이상해풀",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/lkhlkh23/pocket-db/main/img/2.png"
     },
     "3": {
       "name": "이상해꽃",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/lkhlkh23/pocket-db/main/img/3.png"
     }
   }
 }
