@@ -180,61 +180,71 @@
       "name": "루미 (Rumi)",
       "group": "헌트릭스",
       "role": "리더, 메인보컬",
-      "description": "반인반귀 혈통의 책임감 강한 리더"
+      "description": "반인반귀 혈통의 책임감 강한 리더",
+      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/kpop-1/img/1.png?raw=true"
     },
     "진우": {
       "name": "진우 (Jinu)", 
       "group": "사자 보이즈",
       "role": "리더, 메인보컬",
-      "description": "인간성을 유지한 복잡한 내면의 악령"
+      "description": "인간성을 유지한 복잡한 내면의 악령",
+      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/kpop-1/img/2.png?raw=true"
     },
     "셀린": {
       "name": "셀린 (Celine)",
       "group": "기타",
       "role": "전직 데몬 헌터",
-      "description": "원칙적이고 강인한 멘토"
+      "description": "원칙적이고 강인한 멘토",
+      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/kpop-1/img/10.png?raw=true"
     },
     "조이": {
       "name": "조이 (Zoey)",
       "group": "헌트릭스", 
       "role": "막내, 래퍼",
-      "description": "밝고 활발한 분위기 메이커"
+      "description": "밝고 활발한 분위기 메이커",
+      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/kpop-1/img/3.png?raw=true"
     },
     "미라": {
       "name": "미라 (Mira)",
       "group": "헌트릭스",
       "role": "메인댄서, 비주얼",
-      "description": "패션을 사랑하는 완벽주의자"
+      "description": "패션을 사랑하는 완벽주의자",
+      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/kpop-1/img/4.png?raw=true"
     },
     "애비": {
       "name": "애비 (Abby)",
       "group": "사자 보이즈",
       "role": "메인댄서, 서브래퍼", 
-      "description": "완벽한 몸매의 자신감 넘치는 퍼포머"
+      "description": "완벽한 몸매의 자신감 넘치는 퍼포머",
+      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/kpop-1/img/5.png?raw=true"
     },
     "베이비": {
       "name": "베이비 (Baby)",
       "group": "사자 보이즈",
       "role": "메인래퍼, 막내",
-      "description": "반전 매력의 프로페셔널한 래퍼"
+      "description": "반전 매력의 프로페셔널한 래퍼",
+      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/kpop-1/img/6.png?raw=true"
     },
     "미스터리": {
       "name": "미스터리 (Mystery)",
       "group": "사자 보이즈", 
       "role": "서브보컬",
-      "description": "신비로운 매력의 과묵한 멤버"
+      "description": "신비로운 매력의 과묵한 멤버",
+      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/kpop-1/img/7.png?raw=true"
     },
     "로맨스": {
       "name": "로맨스 (Romance)",
       "group": "사자 보이즈",
       "role": "리드보컬", 
-      "description": "중성적 매력의 조화로운 보컬리스트"
+      "description": "중성적 매력의 조화로운 보컬리스트",
+      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/kpop-1/img/8.png?raw=true"
     },
     "귀마": {
       "name": "귀마 (Gwima)",
       "group": "기타",
       "role": "최종 보스",
-      "description": "교활하고 강력한 악령의 왕"
+      "description": "교활하고 강력한 악령의 왕",
+      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/kpop-1/img/9.png?raw=true"
     }
   },
   "scoring": {
