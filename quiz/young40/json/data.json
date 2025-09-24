@@ -197,25 +197,25 @@
       "name": "스윗 영포티",
       "type": "영포티 극한직업",
       "description": "젊은 여성에게만 친절한 이중적 매력남 당신은 여성 앞에서는 신사가 되고, 남성 앞에서는 꼰대가 되는 마법 같은 능력을 가지고 있어요! 브랜드 로고가 큰 옷을 즐겨 입고, SNS에는 맛집 인증샷과 함께 '오늘도 화이팅!' 같은 댓글을 달며, 젊은 여성 직원들에게만 유난히 친근하게 굽니다. '요즘 젊은 애들은 어쩌고...' 하면서도 20대 여성이 좋아한다는 걸 알면 바로 관심을 보이는 당신... 혹시 본인이 아직도 매력적이라고 생각하고 계신가요?",
-      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/young40/img/sweet.png?raw=true"
+      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/young40/img/1.png?raw=true"
     },
     "뚱포티": {
       "name": "뚱포티 (원조 영포티)",
       "type": "영포티 레전드",
       "description": "고집불통 원조 영포티의 진수 당신은 '내 방식이 최고다'를 외치는 진정한 옛날 영포티예요! 젊은 것들은 버릇없고 자신의 경험과 실력이야말로 진리라고 굳게 믿고 있죠. 정치적 신념도 확고하고 SNS에서도 당당하게 자신의 의견을 표출합니다. 마블 영화 보면서 '내가 젊을 때는...' 하고 옛날 얘기를 시작하고, 스텔라 블레이드 하면서도 '요즘 게임은 그래픽만 좋다'며 투덜거리죠. 브랜드 같은 건 실용성이 최고! 하지만 이런 당신의 확고한 신념이 때로는 꼰대로 보일 수도...",
-      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/young40/img/ddung.png?raw=true"
+      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/young40/img/2.png?raw=true"
     },
     "영포티입문자": {
       "name": "영포티 입문자",
       "type": "영포티 새싹",
       "description": "젊음에 목마른 트렌드 추종자 당신은 이제 막 영포티의 세계에 발을 담근 신입생이에요! '아직은 젊다'는 마음가짐으로 열심히 최신 트렌드를 쫓아다니며, 젊은 친구들과 친해지려고 노력하고 있죠. 요즘 인기 있는 게임도 해보고, 핫한 드라마도 챙겨보고, OOTD도 올려보면서 '나도 아직 젊어!'라고 외치고 있어요. 하지만 가끔씩 세대 차이를 느끼면서도 포기하지 않는 당신의 노력이 기특해요! 아직은 순수한 영포티 입문자로서, 앞으로 어떤 영포티가 될지 기대됩니다!",
-      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/young40/img/beginner.png?raw=true"
+      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/young40/img/3.png?raw=true"
     },
     "영퐁티": {
       "name": "영퐁티 (영포티 + 퐁퐁단)",
       "type": "영포티 최종진화",
       "description": "겉과 속이 다른 가성비 영포티 당신은 영포티와 퐁퐁단이 결합된 특별한 존재예요! 겉으로는 젊은 척하며 브랜드 옷 입고 여유있는 척하지만, 실제로는 속으로 계산기 두들기며 가성비를 따지는 이중생활을 하고 있어요. 여성들 앞에서는 '성공한 남자' 코스프레하며 과감하게 돈 쓰는 척하지만, 혼자 있을 땐 '이번 달 카드값 어쩌지...' 하며 한숨 쉬죠. 정치적으로는 진보적인 척하며 여성 인권 외치지만, 정작 현실에서는 눈치 보며 살아가는 당신... 영포티의 허영과 현실적 고민이 만나 탄생한 복합적 존재입니다!",
-      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/young40/img/pongpong.png?raw=true"
+      "image": "https://github.com/lkhlkh23/pocket-db/blob/main/quiz/young40/img/4.png?raw=true"
     }
   },
   "scoring": {
